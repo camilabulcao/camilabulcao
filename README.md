@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-<!--
-**camilabulcao/camilabulcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Camila Bulcão
+
+Sou Camila Bulcão, uma pessoa comunicativa, recém-formada em engenharia de petróleo e gás, apaixonada por tecnologia e inovação.
+Gosto bastante de ouvir música, ler, estudar, pesquisar, dançar, cantar (mesmo não sabendo kkk), assistir filmes e dar dicas porque adoro a interação entre as pessoas promovidas por essa simples ação. 
+Sou apaixonada do meditação e chás, tenho trabalhado constantemente o autoconhecimento, porque acredito que nós somos a mudança que buscamos.
+Tem muito interesse por python, e outras linguagens, banco de dados, entre outros., o conhecimento é sempre bem-vindo.
+
+![GitHub Logo](https://assets.website-files.com/5d5e2ff58f10c53dcffd8683/5d9eb59b1a0436a05f0006c5_reading-side.svg)
 
 Here are some ideas to get you started:
 

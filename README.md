@@ -2,22 +2,13 @@
 
 ## Camila Bulcão
 
-Sou Camila Bulcão, uma pessoa comunicativa, recém-formada em engenharia de petróleo e gás, apaixonada por tecnologia e inovação.
-Gosto bastante de ouvir música, ler, estudar, pesquisar, dançar, cantar (mesmo não sabendo :sweat_smile:), assistir filmes e dar indicações dos filmes, porque, adoro a interação entre as pessoas promovidas por essa simples ação. 
-Sou apaixonada do meditação e chás, tenho trabalhado constantemente o autoconhecimento, porque acredito que nós somos a mudança que buscamos.
-Tenho muito interesse por python, e outras linguagens, banco de dados, entre outros., o conhecimento é sempre bem-vindo.
-Sou aluna Reprograma :heart_eyes:
+Atualmente sou aluna da turma de Back-end da {reprograma} em parceria com a XP Inc e faço parte do grupo de pesquisa em Propriedade Intelectual do Centro de Estudos e Pesquisas Jurídicas (Cepej) da Faculdade de Direito da UFBA.
+Graduada em Engenharia de Petróleo e Gás.
+Técnica em Informática.
+
+Currículo Lattes: http://lattes.cnpq.br/9281129821926484 
+
 
 ![GitHub Logo](https://assets.website-files.com/5d5e2ff58f10c53dcffd8683/5d9eb59b1a0436a05f0006c5_reading-side.svg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

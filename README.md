@@ -5,6 +5,8 @@
 Atualmente sou aluna da turma de Back-end da {reprograma} em parceria com a XP Inc e faço parte do grupo de pesquisa em Propriedade Intelectual do Centro de Estudos e Pesquisas Jurídicas (Cepej) da Faculdade de Direito da UFBA.
 Graduada em Engenharia de Petróleo e Gás.
 Técnica em Informática.
+Sou apaixonada por leitura, meditação e chás.
+Acredito que somos a mudança que queremos ver no mundo, como dizia Mahatma Gandhi.
 
 Currículo Lattes: http://lattes.cnpq.br/9281129821926484 
 
